@@ -5,7 +5,7 @@ The goal of this project was to create a random password generator using javascr
 
 ## Installation
 
-Visit this link to view the random password generator: https://abbeyschu.github.io/homework2_AS/
+Visit this link to view the random password generator: https://abbeyschu.github.io/homework3_AS/
 
 ## Screenshots
 
